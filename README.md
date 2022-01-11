@@ -6,7 +6,7 @@
 * **Age**: 21
 * **Living in**: Goiânia, Brazil
 * **Skill**: JAVA - C++ - MySQL 
-* **learning**: HTML - CSS - JavaScript
+* **Learning**: HTML - CSS - JavaScript
 
 ## Curiosities about me
 
