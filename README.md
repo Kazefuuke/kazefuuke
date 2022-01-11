@@ -17,6 +17,5 @@
 <p align="center"
 
   [Linkedin](https://www.linkedin.com/in/hebert-honorato-91ab72212/) <br>
-  [Gmail](heberthonoratocruvinel0009@hotmail.com) <br>
 
 </p>
