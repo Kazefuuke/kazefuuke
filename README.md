@@ -5,8 +5,8 @@
 * **Name**: Hebert Honorato
 * **Age**: 21
 * **Living in**: Goiânia, Brazil
-* **Skill**: JAVA - C++ - MySQL 
-* **Learning**: HTML - CSS - JavaScript
+* **Skill**: HTML - CSS - Python 
+* **Learning**: JavaScript
 
 ## Curiosities about me
 
