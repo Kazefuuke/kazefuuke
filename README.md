@@ -3,7 +3,6 @@
 ## Detailed information
 
 * **Name**: Hebert Honorato
-* **Age**: 21
 * **Living in**: Goiânia, Brazil
 * **Skill**: HTML - CSS - Js 
 * **Learning**: Python
