@@ -3,7 +3,7 @@
 ## Detailed information
 
 * **Name**: Hebert Honorato
-* **Living in**: Goiânia, Brazil
+* **Living in**: Brazi
 * **Skill**: HTML - CSS - Js 
 * **Learning**: Python
 
